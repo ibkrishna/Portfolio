@@ -3,7 +3,7 @@ import { BrowserRouter } from "react-router-dom";
 import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
 // import SocialMedia from "./components/SocialMedia";
 import { ImWhatsapp } from 'react-icons/im';
-import { FiPhoneCall } from 'react-icons/Fi';
+import { FiPhoneCall } from 'react-icons/fi';
 
 const App = () => {
   return (
